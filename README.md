@@ -10,11 +10,11 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 
 ### Results
-![Streamlit Transaction](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Streamlit_transaction.png)
+![Streamlit Transaction](Images/Streamlit_transaction.png)
 
-![Ganache Result](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_1.png)
+![Ganache Result](Images/Ganache_Screenshot_1.png)
 
-![Ganache Result 2](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_2.png)
+![Ganache Result 2](Images/Ganache_Screenshot_2.png)
 
 
 
