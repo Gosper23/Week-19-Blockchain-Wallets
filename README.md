@@ -10,19 +10,18 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 
 ### Results
+![Streamlit Transaction](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Streamlit_transaction.png)
 
-![Steamlit Trnasaction]("C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Streamlit_transaction.png")
+![Ganache Result](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_1.png)
 
-![Ganache Result]("C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_1.png")
-
-![Ganache Result 2]("C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_2.png")
+![Ganache Result 2](C:\Users\thoma\Bootcamp\Homework\19 - Blockchain Wallets\Week-19-Blockchain-Wallets\Homework\Instructions\Starter-Code\Images\Ganache_Screenshot_2.png)
 
 
 
 ### What You're Creating
 
 To complete this Challenge, you will use two Python files, both of which are contained in the starter folder.
-
+git 
 The first file that you will use is called `fintech_finder.py`. It contains the code associated with the web interface of your application. The code included in this file is compatible with the Streamlit library. You will write all of your code for this Challenge in this file.
 
 The second file that you will use is called `crypto_wallet.py`. This file contains the Ethereum transaction functions that you have created throughout this module’s lessons. By using import statements, you will integrate the `crypto_wallet.py` Python script into the Fintech Finder interface program that is found in the `fintech_finder.py` file.
